@@ -1,0 +1,107 @@
+/*----------------------------------------*/
+/*  60. Mykonos custom css
+/*----------------------------------------*/
+
+.logo-text a {
+	color: #fff;
+	font-size: 1.2em;
+}
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.mykonos-search {
+	margin: 1em;
+}
+
+.cartao-destaque {
+	color: #f7f7f7;
+}
+
+.amor {
+	color: #cc2222;
+	background-color: #fff;
+	padding: 3px 5px;
+}
+
+.mais-opcoes {
+
+	display: inline;
+}
+
+.btn-primary, .btn-default, .btn-danger, .btn-warning, .btn-success {
+	border-radius: 0;
+	margin-right: 1em;
+}
+
+.hospede-dados {
+	padding: 5px;
+	margin-top: 0.8em;
+}
+
+
+.hospede-titulo {
+	
+	border-bottom: 0.12em solid #3d73b9;
+}
+
+.dados-contato-titulo {
+	font-weight: bold;
+}
+
+.contact-list {
+	margin-top: 15px;
+}
+
+.nome-software {
+	color: #fff;
+	font-size: 2.8em;
+	padding: 5px;
+}
+
+.dados-estado-civil {
+	text-transform: capitalize;
+}
+
+.whatsapp-hospede {
+	width: 4%;
+    margin: 0 1.4em;
+}
+
+.data-hoje {
+	cursor: pointer;
+}
+
+.icone-hoje {
+	color: #ff0000 !important;
+	font-weight: bold !important;
+}
+
+.acesso-restrito {
+	display: none !important;
+}
+
+div.info-empresa {
+	text-align: center;
+	font-size: 0.9em;
+	line-height: 1.4em;
+	padding: 10px 0;
+	margin: 20px 0;
+}
+
+.info-empresa hr {
+	width: 460px;
+	margin: 60px auto 60px auto;
+}
+
+.btn-group-mykonos form{
+	display: inline;
+	float: left;
+	margin: 0 50px;
+
+}
+
+.btn-group-mykonos .btn {
+	background-color: #3d73b9;
+}
